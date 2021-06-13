@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+#SearchBar {
+  min-width: 60vw !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#dropdown-basic {
+  font-size: small;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a.nav-link {
+  line-height: 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.main-navbar {
+  background-color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.main-navbar ul {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 13px;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main-navbar uL:first-of-type {
+  min-width: 220px;
+
+}
+
+.main-navbar uL:last-of-type {
+  overflow-y: auto;
+
+}
+
+.home-layout {
+  background-color: #F7F7FA;
+}
+
+.home-container {
+  width: 90%;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  background-color: black !important;
+  height: 60px !important;
+  width: 60px !important;
+  border-radius: 50% !important;
+  margin-top: 85px;
+}
+
+.carousel-control-next {
+  margin-right: 20px;
+}
+
+.carousel-control-prev {
+  margin-left: 20px;
+}
+
+.carousel-indicators li {
+  background-color: #cfd0d3 !important;
+}
+.carousel-indicators .active {
+  background-color: #FFC107 !important;
+}
+
+.carousel-indicators{
+  bottom: -6vh !important;
+
+}
+.CategoryProducts{
+  cursor: pointer;
+}
+.CategoryProducts h3{
+  font-size: 16px;
+  font-weight: bold;
 }
