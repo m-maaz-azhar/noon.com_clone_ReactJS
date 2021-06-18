@@ -10,7 +10,7 @@ import sliderImg7 from "../assets/slider-images/7.png"
 
 function ImageSlider() {
     return (
-        <div>
+        <div className="ImageSlider">
             <Carousel>
                 <Carousel.Item interval={1000}>
                     <img

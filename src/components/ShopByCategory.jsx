@@ -23,7 +23,6 @@ function ShopByCategory() {
     return (
         <div className="mx-3 mt-5 mb-3 d-flex flex-row flex-wrap justify-content-between">
             {productsList.map((product) => {
-                console.log(product)
                 return (
                     <span className="CategoryProducts text-center">{product}</span>
                 )

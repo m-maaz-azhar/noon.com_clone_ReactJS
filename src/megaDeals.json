@@ -1,0 +1,30 @@
+[
+    {
+        "products": [
+            {
+                "product-id": 0,
+                "title": "Kid's Fashion",
+                "img-url": "https://i.ibb.co/F5X1bBz/Capture.png",
+                "price": "99 AED"
+            },
+            {
+                "product-id": 1,
+                "title": "Body Weighting Scales",
+                "img-url": "https://i.ibb.co/gdfB4YS/1.png",
+                "price": "22 AED"
+            },
+            {
+                "product-id": 2,
+                "title": "Pools & water fun",
+                "img-url": "https://i.ibb.co/b580XH1/2.png",
+                "price": "299 AED"
+            },
+            {
+                "product-id": 3,
+                "title": "Lipsticks",
+                "img-url": "https://i.ibb.co/QdtcQGt/3.png",
+                "price": "49 AED"
+            }
+        ]
+    }
+]

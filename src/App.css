@@ -41,38 +41,80 @@ a.nav-link {
   background-color: white;
 }
 
-.carousel-control-next,
-.carousel-control-prev {
-  background-color: black !important;
-  height: 60px !important;
-  width: 60px !important;
-  border-radius: 50% !important;
-  margin-top: 85px;
+.carousel-control-next-icon {
+  background-image: url("https://i.ibb.co/D1JX1S4/432-4321392-slider-arrows-png-transparent-removebg-preview.png") !important;
+  background-color: white !important;
+  border-radius: 50%;
+  padding: 30px;
 }
 
-.carousel-control-next {
-  margin-right: 20px;
-}
-
-.carousel-control-prev {
-  margin-left: 20px;
+.carousel-control-prev-icon {
+  background-image: url("https://i.ibb.co/WvNrnL0/kj.png") !important;
+  background-color: white !important;
+  border-radius: 50%;
+  padding: 30px;
 }
 
 .carousel-indicators li {
   background-color: #cfd0d3 !important;
 }
+
 .carousel-indicators .active {
   background-color: #FFC107 !important;
 }
 
-.carousel-indicators{
+.shopNowBtn {
+  border: 1px solid black;
+  box-shadow: 2px 5px black;
+}
+
+.carousel-indicators {
   bottom: -6vh !important;
 
 }
-.CategoryProducts{
+
+.CategoryProducts {
   cursor: pointer;
 }
-.CategoryProducts h3{
+
+.CategoryProducts h3 {
   font-size: 16px;
   font-weight: bold;
+}
+
+.Card {
+  max-width: 190px;
+}
+
+.Card img {
+  width: 190px;
+}
+
+.Card .price {
+  font-size: 16px;
+}
+
+.Card .price span {
+  font-weight: bold;
+}
+
+.MegaDeals {
+  background-color: #FFFEDB;
+}
+
+.MegaDealsCard {
+  border: 3px solid #F6E745;
+}
+
+.MegaDealsCard h3 {
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.MegaDealsCard button {
+  width: 100px;
+  height: 40px;
+}
+.ShopNowSlider{
+  cursor: pointer;
 }

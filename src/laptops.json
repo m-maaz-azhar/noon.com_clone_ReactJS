@@ -1,0 +1,69 @@
+[
+    {
+        "products": [
+            {
+                "product-id": 0,
+                "title": "Apple MacBook Air 13.3-Inch Ratina Display",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1605989412/N12341446A_1.jpg",
+                "price": "2829.00",
+                "date": "June 16",
+                "rating": "4.5",
+                "reviews": "(256)"
+            },
+            {
+                "product-id": 1,
+                "title": "Apple MacBook Pro With Touch Bar and Touch ID",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1605900950/N37813242A_1.jpg",
+                "price": "3599.00",
+                "date": "Jun 16",
+                "rating": "5.0",
+                "reviews": "(1.5k)"
+            },
+            {
+                "product-id": 2,
+                "title": "Lenovo Ideapad 3 14L05 Laptop With 14-Inch",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1612944610/N44278658A_1.jpg",
+                "price": "3099.00",
+                "date": "May 4",
+                "rating": "4.2",
+                "reviews": "(2k)"
+            },
+            {
+                "product-id": 3,
+                "title": "Apple MacBook Air 13.3-Inch Ratina Display",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1605900910/N36061300A_1.jpg",
+                "price": "38.75",
+                "date": "April 19",
+                "rating": "4.8",
+                "reviews": "(1k)"
+            },
+            {
+                "product-id": 4,
+                "title": "Samsung 24-Inch FHD Monitor With Super Slim",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1605813525/N11253377A_1.jpg",
+                "price": "503.00",
+                "date": "May 1",
+                "rating": "3.5",
+                "reviews": "(100)"
+            },
+            {
+                "product-id": 5,
+                "title": "Evoo EV-C-1561 Laptop Ultra Thin With 15.6-Inch",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1621419216/N47518953A_1.jpg",
+                "price": "1429.00",
+                "date": "May 6",
+                "rating": "5.0",
+                "reviews": "(3.5k)"
+            },
+            {
+                "product-id": 6,
+                "title": "Lenovo e100 Chromebook Laptop",
+                "img-url": "https://z.nooncdn.com/products/tr:n-t_240/v1611138575/N41910684A_1.jpg",
+                "price": "719.00",
+                "date": "April 21",
+                "rating": "4.6",
+                "reviews": "(350)"
+            }
+        ]
+    }
+]

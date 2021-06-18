@@ -1,0 +1,76 @@
+[
+    {
+        "products": [
+            {
+                "product-id": 0,
+                "title": "iPhone 12 Pro Max With Facetime 256GB",
+                "img-url": "https://i.ibb.co/TrwR1Sq/phone.webp",
+                "price": "4682.15",
+                "date": "April 9",
+                "rating":"4.5",
+                "reviews":"(256)",
+                "location": "SADDAR, RAWALPINDI"
+            },
+            {
+                "product-id": 1,
+                "title": "U-HOOME Push pro Bubble Fidget Sensory",
+                "img-url": "https://i.ibb.co/5GTt7v7/uhome.webp",
+                "price": "8.00",
+                "date": "April 25",
+                "rating":"5.0",
+                "reviews":"(1.5k)",
+                "location": "Lahore, Punjab"
+            },
+            {
+                "product-id": 2,
+                "title": "Sony PlayStation 5 Console (Disc Version)",
+                "img-url": "https://i.ibb.co/fMPHFzB/ps5.webp",
+                "price": "3099.00",
+                "date": "May 4",
+                "rating":"4.2",
+                "reviews":"(2k)",
+                "location": "Lahore, Punjab"
+            },
+            {
+                "product-id": 3,
+                "title": "Generic Series 5 Smart Watch with replaceable",
+                "img-url": "https://i.ibb.co/92rxRvw/smart-Watch.webp",
+                "price": "38.75",
+                "date": "April 19",
+                "rating":"4.8",
+                "reviews":"(1k)",
+                "location": "Bhakkar, Punjab"
+            },
+            {
+                "product-id": 4,
+                "title": "Apple Airpods with charging case white",
+                "img-url": "https://i.ibb.co/JRyKt23/airPod.webp",
+                "price": "479.00",
+                "date": "May 1",
+                "rating":"3.5",
+                "reviews":"(100)",
+                "location": "Multan, Punjab"
+            },
+            {
+                "product-id": 5,
+                "title": "Sony PlayStation 5 Console (Disc Version)",
+                "img-url": "https://i.ibb.co/Gvwdq9z/ps5withdisc.webp",
+                "price": "3619.00",
+                "date": "May 6",
+                "rating":"5.0",
+                "reviews":"(3.5k)",
+                "location": "Faisalabad, Punjab"
+            },
+            {
+                "product-id": 6,
+                "title": "Apple Airpods wireless airphones",
+                "img-url": "https://i.ibb.co/Nj1HSQR/airPod2.webp",
+                "price": "719.00",
+                "date": "April 21",
+                "rating":"4.6",
+                "reviews":"(350)",
+                "location": "Lahore, Punjab"
+            }
+        ]
+    }
+]
