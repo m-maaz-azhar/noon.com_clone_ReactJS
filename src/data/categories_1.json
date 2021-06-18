@@ -1,7 +1,4 @@
-import React from 'react'
-
-function ShopByCategory() {
-    let products = {
+    {
         "Home & Kitchen": "https://i.ibb.co/G9TfbVV/kitchen.jpg",
         "Appliance": "https://i.ibb.co/4N1bz5m/appliance.jpg",
         "Groceries": "https://i.ibb.co/ckcSbPB/groceries.jpg",
@@ -15,20 +12,3 @@ function ShopByCategory() {
         "Mobiles": "https://i.ibb.co/mJ6x55V/mobiles.jpg",
         "Electronics": "https://i.ibb.co/NrLk0B6/electronics.jpg"
     }
-
-    let productsList = [];
-    for (let [productName, ImgPath] of Object.entries(products)) {
-        productsList.push(<><img width="110px" height="110px" className="rounded-circle" src={ImgPath} alt={productName} /><h3>{productName}</h3></>)
-    }
-    return (
-        <div className="mx-3 mt-5 mb-3 d-flex flex-row flex-wrap justify-content-between">
-            {productsList.map((product) => {
-                return (
-                    <span className="CategoryProducts text-center">{product}</span>
-                )
-            })}
-        </div>
-    )
-}
-
-export default ShopByCategory

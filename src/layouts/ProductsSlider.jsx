@@ -3,8 +3,7 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import Card from '../components/Card'
 
-function ProductsSlider() {
-    let data = require('../data.json');
+function ProductsSlider(props) {
     const responsive = {
         superLargeDesktop: {
             // the naming can be any, depends on you.
@@ -26,9 +25,8 @@ function ProductsSlider() {
     };
     return (
         <>
-        <h4 className="ml-3">Recommended for you</h4>
         <Carousel className="px-4" responsive={responsive}>
-            {data[0].products.map((product, i) => {
+            {props.data[0].products.map((product, i) => {
                 return (
                     <Card data={product} />
                 );

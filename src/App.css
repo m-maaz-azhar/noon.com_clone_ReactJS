@@ -115,6 +115,47 @@ a.nav-link {
   width: 100px;
   height: 40px;
 }
-.ShopNowSlider{
+
+.ShopNowSlider {
   cursor: pointer;
 }
+
+footer .footer-a {
+  padding: 20px;
+  border-top: 1px solid #002F3433;
+}
+
+
+footer .footer-a div h4 {
+  font-size: 16px;
+  color: #002f34;
+  font-weight: bold;
+  padding: 6px 0px;
+}
+
+footer .footer-a div li {
+  font-size: 14px;
+  color: #002F34A3;
+  list-style-type: none;
+  padding: 2px 0px;
+  cursor: pointer;
+}
+
+footer .footer-a div li:hover {
+  color: #3A77FF;
+}
+
+footer .footer-a div li span {
+  margin: 0px 5px;
+}
+
+footer .footer-a div li img {
+  width: 90px;
+  height: 25px;
+  margin: 20px 10px 0px 5px;
+}
+
+.social-icon {
+  font-size: 30px;
+}
+footer li{cursor: pointer;}

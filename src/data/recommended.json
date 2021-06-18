@@ -8,8 +8,7 @@
                 "price": "4682.15",
                 "date": "April 9",
                 "rating":"4.5",
-                "reviews":"(256)",
-                "location": "SADDAR, RAWALPINDI"
+                "reviews":"(256)"
             },
             {
                 "product-id": 1,
@@ -18,8 +17,7 @@
                 "price": "8.00",
                 "date": "April 25",
                 "rating":"5.0",
-                "reviews":"(1.5k)",
-                "location": "Lahore, Punjab"
+                "reviews":"(1.5k)"
             },
             {
                 "product-id": 2,
@@ -28,8 +26,7 @@
                 "price": "3099.00",
                 "date": "May 4",
                 "rating":"4.2",
-                "reviews":"(2k)",
-                "location": "Lahore, Punjab"
+                "reviews":"(2k)"
             },
             {
                 "product-id": 3,
@@ -38,8 +35,7 @@
                 "price": "38.75",
                 "date": "April 19",
                 "rating":"4.8",
-                "reviews":"(1k)",
-                "location": "Bhakkar, Punjab"
+                "reviews":"(1k)"
             },
             {
                 "product-id": 4,
@@ -48,8 +44,7 @@
                 "price": "479.00",
                 "date": "May 1",
                 "rating":"3.5",
-                "reviews":"(100)",
-                "location": "Multan, Punjab"
+                "reviews":"(100)"
             },
             {
                 "product-id": 5,
@@ -58,8 +53,7 @@
                 "price": "3619.00",
                 "date": "May 6",
                 "rating":"5.0",
-                "reviews":"(3.5k)",
-                "location": "Faisalabad, Punjab"
+                "reviews":"(3.5k)"
             },
             {
                 "product-id": 6,
@@ -68,8 +62,7 @@
                 "price": "719.00",
                 "date": "April 21",
                 "rating":"4.6",
-                "reviews":"(350)",
-                "location": "Lahore, Punjab"
+                "reviews":"(350)"
             }
         ]
     }
