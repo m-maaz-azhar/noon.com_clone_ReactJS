@@ -30,7 +30,9 @@ a.nav-link {
   overflow-y: auto;
 
 }
-
+.main-navbar li{
+  cursor:pointer;
+}
 .home-layout {
   background-color: #F7F7FA;
 }
